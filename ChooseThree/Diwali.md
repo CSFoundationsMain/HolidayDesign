@@ -1,4 +1,4 @@
-Diwali, India
+### Diwali, India
 Hindus celebrate Diwali, a major five-day festival of lights that’s observed in fall (the date is different every year).
 The ancient holiday, found in Sanskrit texts, celebrates good over evil and light over darkness. As such, the holiday is filled with all manner of light,
 from candles to firecrackers. Other traditions involve honoring the Hindu deity Lakshmi, who represents wealth, and creating rangoli, elaborate colorful
