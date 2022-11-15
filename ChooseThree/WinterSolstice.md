@@ -4,3 +4,5 @@ This occurs a few days before Christmas, and even though it’s celebrated in di
 Stonehenge is thought to be one of the earliest epicenters for marking the longest night of the year due to the placement of the stones.
 In fact, the Winter Solstice is still celebrated at Stonehenge, and anyone can buy tickets to experience the sunrise, along with Druid
 and Pagan traditions.
+
+[source:  Travel Channel](https://www.travelchannel.com/interests/holidays/photos/fun-holiday-traditions-around-the-world)
