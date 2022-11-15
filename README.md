@@ -66,6 +66,8 @@ Holiday Design is our third project "freelance", and first without a companion w
 
 [Wanna Work Together:  Creative Commons - video](https://youtu.be/wC-m23T7cPM)
 
+[Creative Commons licenses](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+
 
 
 ### Advance your Learning
