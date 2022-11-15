@@ -3,9 +3,10 @@
 ## Creativity
  - The primary purpose of a "freelance" project is to take what you have learned in the related walk-throughs and make it your own.
  - In this project you are asked to do the following:
+     - Choose the text of exactly THREE holiday celebration text (markDown) files from all files provided in the "ChooseThree" folder of this repository.
      - Use the Image Gallery and Aladdin student portfolio walk-throughs as models to create YOUR own "original" Holiday Design CSS and HTML Zen static website. 
      - Establish your own HTML Structure AND CSS Styles following the guidelines stated in General Specifications below.
-     - Your project should be one page only - thus not requiring a navigation menu.
+     - Your project should be **ONE page** only - thus not requiring a navigation menu.
      - Select your own colors / color palette
      - Select your own font(s)
      - Your images and external files should be stored in a folder titled "assets".
