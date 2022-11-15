@@ -1,5 +1,6 @@
 # HolidayDesign
-Celebrate Holiday Traditions around the Globe with HTML / CSS Front End Design Freelance project
+Celebrate Holiday Traditions around the Globe with your HTML / CSS Front End Design Freelance project
+with inspiration from [CSS Zen Garden - The Beauty of CSS Design](http://www.csszengarden.com/).
 
 <hr>
 <em>All project work/edits must be done in your AWS Cloud9 IDE (Integrated Development Environment). NEVER write directly to your GitHub Repositories!</em>
