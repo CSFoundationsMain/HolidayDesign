@@ -5,3 +5,5 @@ Oh, and it wasn’t a dessert either, but a savory meat-based affair that involv
 evolved into today’s familiar fruit-based version, as detailed in Charles Dickens’ A Christmas Carol. To get the full traditional
 experience, a proper Christmas pudding conceals a silver sixpence (or any coin) for good luck. Upon serving, the dark brown ball is soaked
 in brandy, then set alight.
+
+[source:  Travel Channel](https://www.travelchannel.com/interests/holidays/photos/fun-holiday-traditions-around-the-world)
