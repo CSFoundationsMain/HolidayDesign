@@ -38,7 +38,7 @@
  - Your work should be recorded with frequent git commits including clear and appropriate descriptive messages
  - Your work should be frequently pushed to your remote GitHub Repo - especially at the end of each class.
  - Once completed your final commit message must say "Submit for Grading"
-
+ - **Add this project to a Project Card on your Student Portfolio website
 
 ## Time and Classroom Management
  - This project is meant to be completed during scheduled class time only - working "bell to bell"
