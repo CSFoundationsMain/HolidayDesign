@@ -7,6 +7,7 @@
      - Use the Image Gallery and Aladdin student portfolio walk-throughs as models to create YOUR own "original" Holiday Design CSS and HTML Zen static website. 
      - Establish your own HTML Structure AND CSS Styles following the guidelines stated in General Specifications below.
      - Your project should be **ONE page** only - thus not requiring a navigation menu.
+     - Demonstrate your knowledge of **flex box** by utilizing this CSS tool in your project
      - Select your own colors / color palette
      - Select your own font(s)
      - Your images and external files should be stored in a folder titled "assets".
